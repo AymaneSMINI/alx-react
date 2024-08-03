@@ -1,0 +1,16 @@
+.Notifications{
+    border: 2px dashed red;
+    padding: 10px;
+    margin: 20px;
+}
+
+.Notifications > p {
+    font-size: larger;
+    font-weight: 600;
+}
+li[data="urgent"] {
+    color: red;
+}
+li[data="default"] {
+    color: #544389;
+}

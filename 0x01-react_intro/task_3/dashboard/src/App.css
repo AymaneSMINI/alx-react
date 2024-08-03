@@ -1,0 +1,48 @@
+
+
+.App-header {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+h1{
+  color: #E0354B;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 150px;
+}
+
+.divider{
+  width: 98%;
+  color: #E0354B;
+  height: 2px;
+  background-color: #E0354B;
+}
+.App-body{ 
+  margin: 40px 40px;
+  min-height: 60vh;
+}
+
+.App-body > p{
+  font-size:larger; 
+}
+
+.App-body > input, label {
+  margin: 5px;
+  font-size: large;
+  font-weight: 500;
+}
+.App-body > button {
+  margin: 5px;
+  width: 40px;
+  height: 23px;
+  background-color: white;
+  border-color: black;
+  border-radius: 5px;
+}
+  .App-footer > p{
+    text-align: center;
+    font-size: larger; 
+  }
