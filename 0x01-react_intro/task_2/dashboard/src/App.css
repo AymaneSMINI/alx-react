@@ -29,6 +29,19 @@ img{
   font-size:larger; 
 }
 
+.App-body > input, label {
+  margin: 5px;
+  font-size: large;
+  font-weight: 500;
+}
+.App-body > button {
+  margin: 5px;
+  width: 40px;
+  height: 23px;
+  background-color: white;
+  border-color: black;
+  border-radius: 5px;
+}
   .App-footer > p{
     text-align: center;
     font-size: larger; 

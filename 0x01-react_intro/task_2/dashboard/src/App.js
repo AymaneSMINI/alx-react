@@ -12,6 +12,9 @@ function App() {
       <hr className="divider"></hr>
       <div className="App-body">
         <p>Login to access the full dashboard</p>
+        <label>Email :</label> <input></input>
+        <label>Password :</label> <input></input>
+        <button>OK</button>
       </div>
       <hr className="divider"></hr>
       <div className="App-footer">
